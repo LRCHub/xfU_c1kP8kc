@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "キルミーダーリン",
+  "base_artist": "REISAI",
+  "createdAt": "2026-01-03T17:01:48.191616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キルミーダーリン",
+      "artist": "REISAI",
+      "has_synced": true,
+      "path": "select/01_キルミーダーリン_REISAI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キルミーダーリン(self cover)",
+      "artist": "REISAI",
+      "has_synced": false,
+      "path": "select/pl_01_キルミーダーリン(self_cover)_REISAI.txt"
+    }
+  ]
+}
